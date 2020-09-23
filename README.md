@@ -16,3 +16,4 @@ npm start
 练习要求：
 - 根据 mockup 合理划分组件
 - 编写组件和mockup一致
+`````
